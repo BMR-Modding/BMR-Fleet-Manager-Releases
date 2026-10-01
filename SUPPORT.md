@@ -21,6 +21,8 @@
 
 ## Report a problem
 
+For help and discussion, use the [Fleet Manager support thread on the Railroader Discord](https://discord.com/channels/795878618697433097/1316066545352577145). For reproducible bugs, you can also open a GitHub issue below.
+
 [Open a bug report](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/issues/new?template=bug_report.yml) and include:
 
 - Fleet Manager, Railroader and Unity Mod Manager versions.

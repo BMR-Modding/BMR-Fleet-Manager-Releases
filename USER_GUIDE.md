@@ -4,7 +4,7 @@ Fleet Manager expands Railroader's equipment tools with fleet search, numbering,
 
 **Version 0.21.3.** This guide covers installation, fleet tools, the local web interface, multiplayer access and local files.
 
-[Downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md)
+[GitHub downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [Nexus Mods](https://www.nexusmods.com/games/railroader/mods/1787) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md)
 
 ## Install or update
 
@@ -154,6 +154,8 @@ UMM options include:
 Click **Save** in UMM to retain settings. Automatic exports do not save the game or create an export history. A first export performed only on exit cannot retain a newly created export ID without a later game save.
 
 ## Help and bug reports
+
+Get help in the [Fleet Manager support thread on the Railroader Discord](https://discord.com/channels/795878618697433097/1316066545352577145), or report a reproducible bug on GitHub.
 
 For a bug report, include Fleet Manager and game versions, host/client role, steps to reproduce, the expected result and Player.log. The log folder is:
 

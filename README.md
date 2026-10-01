@@ -7,13 +7,13 @@ Plan trains with the train calculator, read and add timetable services, and view
 
 **First Public release: 0.21.3** | **Requires: Railroader 2025.1 and Unity Mod Manager 0.27.10 or later**
 
-[Downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [User guide](USER_GUIDE.md) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md)
+[GitHub downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [Nexus Mods](https://www.nexusmods.com/games/railroader/mods/1787) | [User guide](USER_GUIDE.md) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md) | [Discord support](https://discord.com/channels/795878618697433097/1316066545352577145)
 
 
 ## Install or update
 
 1. Close Railroader.
-2. Download **BMR.FleetManager-0.21.3.zip** from Releases. Use the named mod ZIP, rather than GitHub's automatically generated source archives.
+2. Download **BMR.FleetManager-0.21.3.zip** from GitHub Releases or the Nexus Files tab. Use the named mod ZIP, rather than GitHub's automatically generated source archives.
 3. Remove standalone **BMR Equipment Delivery** and legacy **BMR Purchase Interchange** if installed; delivery is included in Fleet Manager.
 4. Install the ZIP through Unity Mod Manager, replacing any previous Fleet Manager version.
 5. Load a railroad and open **Company > Equipment**. Confirm **Fleet Manager 0.21.3**.
