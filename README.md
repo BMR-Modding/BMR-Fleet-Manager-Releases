@@ -2,13 +2,13 @@
 
 Fleet tools and a local browser dashboard for **Railroader**, by BMR.
 
-Manage equipment, numbering, groups, destinations and exports from the game or a browser on your game PC. Plan trains with the train calculator, read and add timetable services, and view a printable Train Graph.
+Manage equipment, numbering, groups, destinations and exports from the game or a browser on your game PC. 
+Plan trains with the train calculator, read and add timetable services, and view a printable Train Graph.
 
-**First release in preparation: 0.21.3** | **Requires: Railroader 2025.1 and Unity Mod Manager 0.27.10 or later**
+**First Public release: 0.21.3** | **Requires: Railroader 2025.1 and Unity Mod Manager 0.27.10 or later**
 
 [Downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [User guide](USER_GUIDE.md) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md)
 
-The first release is being prepared. The mod installer will appear under Releases once it is published.
 
 ## Install or update
 
@@ -38,6 +38,6 @@ For multiplayer, host and participating clients need matching **0.21.3**. Office
 
 The build targets Railroader **2025.1.0b**. Compatibility with the forthcoming MOW update has not been established. Scrapalachia and Lego's Used Locomotive Market are optional integrations, not required dependencies.
 
-Single-player bulk numbering, Undo and save-folder organization have been confirmed in game. Live multiplayer synchronization and role changes still need validation. Train calculations are estimates; the Train Graph is a timetable view and does not predict collisions or automate dispatch. See [known limits](SUPPORT.md#known-limits).
+Train calculations are estimates; the Train Graph is a timetable view and does not predict collisions or automate dispatch. See [known limits](SUPPORT.md#known-limits).
 
-This repository provides mod downloads and player documentation. The source repository remains private.
+This repository provides mod downloads and player documentation.
