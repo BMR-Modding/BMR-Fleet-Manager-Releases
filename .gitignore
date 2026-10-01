@@ -1,0 +1,7 @@
+.release-staging/
+*.zip
+*.dll
+*.exe
+*.pdb
+*.log
+*.tmp

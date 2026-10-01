@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a Fleet Manager problem.
+title: "[Bug] "
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: Versions
+      description: Fleet Manager, Railroader and Unity Mod Manager versions.
+      placeholder: Fleet Manager 0.21.3 / Railroader 2025.1.0b / UMM ...
+    validations:
+      required: true
+  - type: dropdown
+    id: session
+    attributes:
+      label: Game session
+      options:
+        - Single-player
+        - Multiplayer host
+        - Multiplayer client
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Multiplayer role
+      description: For a client, state the native game role and the host's Fleet Manager version.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the tab, selected equipment and action that triggered the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result
+      description: State whether the game froze/crashed, changed equipment incorrectly or showed an error.
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other relevant mods
+  - type: textarea
+    id: logs
+    attributes:
+      label: Player.log and screenshots
+      description: Attach Player.log before restarting the game. Review local paths, names and session details before uploading to a public issue.
