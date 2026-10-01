@@ -12,11 +12,11 @@
 ## Known limits
 
 - The build targets Railroader **2025.1.0b**. MOW compatibility has not been established.
-- Single-player bulk numbering, browser History/Undo, in-game Undo and the save-folder workflow have been confirmed in game. Live multiplayer synchronization, role changes and save/reload still need validation.
+- Single-player bulk numbering, browser History/Undo, in-game Undo and the save-folder workflow have been confirmed in game. Live multiplayer synchronization, role changes and save/reload Are partially tested and confirmed
 - History covers numbering and company identity. Destination, group, rule, purchase and timetable edits have no history restoration in this version.
 - Timetables can be read and new services added. Editing/deleting existing services and live train positions are not included. Adding a service does not assign a crew.
 - The Train Graph uses schematic station spacing. Intersections show planned schedule overlaps, not collision or track-capacity predictions.
-- Traction calculations are estimates. Steam estimates use current boiler pressure and do not predict sustained steam production; they are not braking or coupler limits.
+- Traction calculations are estimates. Steam estimates use current boiler pressure and do not predict sustained steam production.
 - Detailed Save As, autosave, file-access failure and multiplayer edge cases have not all been separately checked in game. Keep an important save backed up before bulk edits.
 
 ## Report a problem
