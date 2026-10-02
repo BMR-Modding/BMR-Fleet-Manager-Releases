@@ -7,7 +7,7 @@ Plan trains with the train calculator, read and add timetable services, and view
 
 **First public release: 0.21.4** | **Requires: Railroader 2025.1 and Unity Mod Manager 0.27.10 or later**
 
-[GitHub downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [Nexus Mods](https://www.nexusmods.com/games/railroader/mods/1787) | [User guide](USER_GUIDE.md) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md) | [Discord support](https://discord.com/channels/795878618697433097/1316066545352577145)
+[GitHub downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [Nexus Mods](https://www.nexusmods.com/railroader/mods/1787) | [User guide](USER_GUIDE.md) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md) | [Discord support](https://discord.com/channels/795878618697433097/1316066545352577145)
 
 
 The 0.21.4 download is prepared as a draft for final publication.
