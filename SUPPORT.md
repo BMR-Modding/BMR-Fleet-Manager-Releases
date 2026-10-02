@@ -2,7 +2,7 @@
 
 ## Quick checks
 
-- Confirm Fleet Manager **0.21.3** in **Company > Equipment** and Unity Mod Manager.
+- Confirm Fleet Manager **0.21.4** in **Company > Equipment** and Unity Mod Manager.
 - After an update, reload the browser tab and use **Refresh from game**. The dashboard displays a snapshot.
 - If the web page does not open, start it in UMM or the Export tab and use **http://127.0.0.1:18766/** on the game PC.
 - If an edit is rejected, refresh and review it again. Equipment state, permissions or the loaded railroad may have changed.
@@ -54,5 +54,5 @@ Autosaves use the parent save's folder. Save As copies local data forward and se
 The release includes a SHA-256 checksum beside the installation ZIP. In PowerShell, run this from the download folder and compare the Hash with the checksum file:
 
 ```powershell
-Get-FileHash -LiteralPath '.\BMR.FleetManager-0.21.3.zip' -Algorithm SHA256
+Get-FileHash -LiteralPath '.\BMR.FleetManager-0.21.4.zip' -Algorithm SHA256
 ```

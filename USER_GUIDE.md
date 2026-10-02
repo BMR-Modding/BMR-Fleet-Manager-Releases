@@ -2,7 +2,7 @@
 
 Fleet Manager expands Railroader's equipment tools with fleet search, numbering, saved groups, destination assignments, CSV exports and a local web interface.
 
-**Version 0.21.3.** This guide covers installation, fleet tools, the local web interface, multiplayer access and local files.
+**Version 0.21.4.** This guide covers installation, fleet tools, the local web interface, multiplayer access and local files.
 
 [GitHub downloads](https://github.com/BMR-Modding/BMR-Fleet-Manager-Releases/releases) | [Nexus Mods](https://www.nexusmods.com/games/railroader/mods/1787) | [Help and bug reports](SUPPORT.md) | [Release notes](CHANGELOG.md)
 
@@ -12,8 +12,8 @@ Requires **Railroader 2025.1 and Unity Mod Manager**. The current build targets 
 
 1. Close Railroader.
 2. Remove standalone **BMR Equipment Delivery** and the legacy **BMR Purchase Interchange** if installed. Delivery is included in Fleet Manager.
-3. Install **BMR.FleetManager-0.21.3.zip** through UMM, replacing the previous Fleet Manager version.
-4. Start the game and load a railroad. Open **Company > Equipment** and confirm **Fleet Manager 0.21.3**.
+3. Install **BMR.FleetManager-0.21.4.zip** through UMM, replacing the previous Fleet Manager version.
+4. Start the game and load a railroad. Open **Company > Equipment** and confirm **Fleet Manager 0.21.4**.
 5. Reload any open Fleet Manager browser tabs after updating.
 
 Existing saved rules and groups are retained. Exports and company logos are stored outside the mod installation folder. Keep a backup of an important save before changing equipment in bulk.
@@ -107,7 +107,7 @@ Adding a service does not assign a crew. Passenger crews retain the game's timet
 
 ## Multiplayer access
 
-Install **0.21.3 on both the host and participating clients**. Each player runs Fleet Manager and, if wanted, its local browser interface on their own game PC. Operations use that player's native game permissions, including applicable crew restrictions; Fleet Manager does not grant a higher role.
+Install **0.21.4 on both the host and participating clients**. Each player runs Fleet Manager and, if wanted, its local browser interface on their own game PC. Operations use that player's native game permissions, including applicable crew restrictions; Fleet Manager does not grant a higher role.
 
 | Feature | Current access |
 | --- | --- |

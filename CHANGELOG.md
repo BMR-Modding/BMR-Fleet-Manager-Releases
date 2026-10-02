@@ -1,6 +1,6 @@
 # Release notes
 
-## 0.21.3 - First public release preparation
+## 0.21.4 - First public release
 
 - Equipment search, category and freight car-type filters, maintenance columns and saved groups.
 - Reviewed bulk numbering with attached tenders, purchase rules and smooth vehicle model refreshes.
@@ -13,5 +13,6 @@
 - Permission-aware operational edits and host-validated Officer/President fleet tools. Matching host/client versions are required; Company Recharter and company restoration stay host-only.
 - Manual CSV exports and optional timed, save and normal-exit triggers.
 - Local files grouped by game save, with autosave grouping and Save As copying.
+- Verified Company Recharter, with the save-folder lookup corrected so history and recovery records do not block Recharter, numbering or Undo.
 
-Targets Railroader 2025.1.0b with Unity Mod Manager. Single-player numbering, Undo and save-folder organization have been confirmed in game. Live multiplayer and detailed save-folder edge cases remain to be validated; see [known limits](SUPPORT.md#known-limits).
+Targets Railroader 2025.1.0b with Unity Mod Manager. Single-player numbering, Undo, Company Recharter and save-folder organization have been confirmed in game. Multiplayer workflows are partially tested and confirmed; detailed edge cases remain to be validated; see [known limits](SUPPORT.md#known-limits).

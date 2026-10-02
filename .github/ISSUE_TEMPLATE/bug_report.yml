@@ -7,7 +7,7 @@ body:
     attributes:
       label: Versions
       description: Fleet Manager, Railroader and Unity Mod Manager versions.
-      placeholder: Fleet Manager 0.21.3 / Railroader 2025.1.0b / UMM ...
+      placeholder: Fleet Manager 0.21.4 / Railroader 2025.1.0b / UMM ...
     validations:
       required: true
   - type: dropdown
